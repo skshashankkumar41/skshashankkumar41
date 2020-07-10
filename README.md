@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Shashank! 👋👋
 
+<a href="https://twitter.com/shashankkumar25">
+  <img align="left" alt="Shashannk Srivastava | Twitter" width="20px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+</a>
 <!--
 **skshashankkumar41/skshashankkumar41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
