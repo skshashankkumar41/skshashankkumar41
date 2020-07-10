@@ -22,7 +22,7 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Scince Enthu
 **Languages and Tools:**  
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"/></code>
-<code><img height="20" src="https://api.iconify.design/simple-icons:keras.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:pytorch.svg"></code>
 <code><img height="20" src="https://api.iconify.design/logos-opencv.svg"></code>
 <code><img height="20" src="https://api.iconify.design/logos:django.svg"></code>
