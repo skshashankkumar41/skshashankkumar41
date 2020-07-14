@@ -17,7 +17,7 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Scince Enthu
 
 - 🔭 I’m currently pursuing my Bachelor of Engineering in Computer Science
 - ⚡ [Live Projects](https://skshashankkumar41.github.io/)
-- 📫 How to reach me: skshashankkumar41@gmail.com
+- 📫 How to reach me: [Contact Form](https://skshashankkumar41.github.io./contact_form/contact.html)
 
 **Languages and Tools:**  
 
