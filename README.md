@@ -3,7 +3,7 @@
 <a href="https://medium.com/@skshashankkumar41">
   <img align="left" alt="Shashannk Srivastava | Medium" width="20px" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 </a>
-<a href="hhttps://www.linkedin.com/in/skshashankkumar41/">
+<a href="https://www.linkedin.com/in/skshashankkumar41/">
   <img align="left" alt="Shashannk Srivastava | Linked-In" width="20px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://twitter.com/shashankkumar25">
