@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Scince Enthusiast from India.
+Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Enthusiast from India.
 
 - 🔭 I’m currently pursuing my Bachelor of Engineering in Computer Science
 - ⚡ [Live Projects](https://skshashankkumar41.github.io/)
