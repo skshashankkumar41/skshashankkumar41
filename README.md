@@ -10,8 +10,6 @@
 </div>
 
 <br />
-<br />
-
 Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Practitioner from India.
 
 - 🔭 I’m currently pursuing my Bachelor of Engineering in Computer Science
