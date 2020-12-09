@@ -8,8 +8,10 @@
 [![Instagram Link](https://img.shields.io/badge/instagram.com/i_shashank25%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/i_shashank25/)
 [![Medium link](https://img.shields.io/badge/-medium.com/@skshashankkumar41-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@skshashankkumar41)
 </div>
+
 <br />
 <br />
+
 Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Practitioner from India.
 
 - 🔭 I’m currently pursuing my Bachelor of Engineering in Computer Science
