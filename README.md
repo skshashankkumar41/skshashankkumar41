@@ -1,4 +1,6 @@
-### Hi there, I'm Shashank! 👋👋
+<div align="center">
+  <h1>Hi there, I'm <a href="https://twitter.com/shashankkumar25" target="_blank">Shashank</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 <a href="https://medium.com/@skshashankkumar41">
   <img align="left" alt="Shashannk Srivastava | Medium" width="20px" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
