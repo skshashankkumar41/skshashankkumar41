@@ -18,7 +18,7 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 - ⚡ [Live Projects](https://skshashankkumar41.github.io/)
 - 📫 How to reach me: [Contact Form](https://skshashankkumar41.github.io./contact_form/contact.html)
 
-**Languages and Tools:**  
+<h2>Languages and Tools<h2>
 
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -42,10 +42,8 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 <br>
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
-
-  [![nirbhayvashisht's github stats](https://github-readme-stats.skshashankkumar41.vercel.app/api?username=skshashankkumar41&show_icons=true)](https://github.com/nirbhayvashisht/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.skshashankkumar41.vercel.app/api/top-langs/?username=skshashankkumar41&layout=compact&langs_count=6)](https://github.com/nirbhayvashisht/github-readme-stats)
-
+ <a href="https://github.com/skshashankkumar41/skshashankkumar41">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshashankkumar41&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </details>
 <br>
 <!--
