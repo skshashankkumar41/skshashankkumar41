@@ -20,7 +20,7 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 
 <h2>Languages and Tools<h2>
 
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-1F425F?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
