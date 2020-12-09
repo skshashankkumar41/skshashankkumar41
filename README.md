@@ -4,16 +4,10 @@
 <div align="center">
 
 [![Twitter Link](https://img.shields.io/twitter/follow/shashankkumar25?color=1DA1F2&label=%40shashankkumar25&logo=Twitter&style=flat)](https://twitter.com/shashankkumar25)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/skshashankkumar41%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/skshashankkumar41/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/i_shashank25%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/i_shashank25/)
+[![Medium link](https://img.shields.io/badge/-medium.com/@skshashankkumar41-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@skshashankkumar41)
 </div>
-<a href="https://medium.com/@skshashankkumar41">
-  <img align="left" alt="Shashannk Srivastava | Medium" width="20px" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
-</a>
-<a href="https://www.linkedin.com/in/skshashankkumar41/">
-  <img align="left" alt="Shashannk Srivastava | Linked-In" width="20px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/shashankkumar25">
-  <img align="left" alt="Shashannk Srivastava | Twitter" width="20px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
-</a>
 
 <br />
 <br />
