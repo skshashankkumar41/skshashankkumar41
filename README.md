@@ -19,13 +19,15 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 - 📫 How to reach me: [Contact Form](https://skshashankkumar41.github.io./contact_form/contact.html)
 
 **Languages and Tools:**  
+
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Django](http://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white)
-![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 <!--
@@ -36,6 +38,16 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 <code><img height="20" src="https://api.iconify.design/logos:django.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></code>
 -->
+
+<br>
+<details>
+  <summary>:zap: <b>Github Stats</b></summary>
+
+  [![nirbhayvashisht's github stats](https://github-readme-stats.skshashankkumar41.vercel.app/api?username=skshashankkumar41&show_icons=true)](https://github.com/nirbhayvashisht/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.skshashankkumar41.vercel.app/api/top-langs/?username=skshashankkumar41&layout=compact&langs_count=6)](https://github.com/nirbhayvashisht/github-readme-stats)
+
+</details>
+<br>
 <!--
 **My GitHub Stats:**
 <a href="https://github.com/skshashankkumar41/skshashankkumar41">
