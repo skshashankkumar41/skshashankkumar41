@@ -38,7 +38,7 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 <code><img height="20" src="https://api.iconify.design/logos:django.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></code>
 -->
-
+<!--
 <br>
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
@@ -46,6 +46,7 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshashankkumar41&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </details>
 <br>
+-->
 <!--
 **My GitHub Stats:**
 <a href="https://github.com/skshashankkumar41/skshashankkumar41">
