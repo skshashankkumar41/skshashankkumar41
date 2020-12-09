@@ -9,7 +9,7 @@
 [![Medium link](https://img.shields.io/badge/-medium.com/@skshashankkumar41-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@skshashankkumar41)
 </div>
 
-<br />
+
 <br />
 
 Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Practitioner from India.
