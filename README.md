@@ -11,17 +11,15 @@
 
 <br />
 <br />
-<div align="center">
-  <h2>About Me</h2>
-  <p>Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Practitioner from India.</p> 
-</div>
+
+Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Practitioner from India.
 
 - 🔭 I’m currently pursuing my Bachelor of Engineering in Computer Science
 - ⚡ [Live Projects](https://skshashankkumar41.github.io/)
 - 📫 How to reach me: [Contact Form](https://skshashankkumar41.github.io./contact_form/contact.html)
 
 **Languages and Tools:**  
-
+![Python](https://img.shields.io/badge/-Python-?style=flat-square&logo=python&logoColor=white)
 <code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:pytorch.svg"></code>
