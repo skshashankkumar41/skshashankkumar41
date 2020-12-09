@@ -19,14 +19,23 @@ Hi, I'm Shashank Srivastava, a passionate Python Developer and Data Science Prac
 - 📫 How to reach me: [Contact Form](https://skshashankkumar41.github.io./contact_form/contact.html)
 
 **Languages and Tools:**  
-![Python](https://img.shields.io/badge/-Python-?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Django](http://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![AWS](http://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<!--
 <code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:pytorch.svg"></code>
 <code><img height="20" src="https://api.iconify.design/logos-opencv.svg"></code>
 <code><img height="20" src="https://api.iconify.design/logos:django.svg"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></code>
-
+-->
 <!--
 **My GitHub Stats:**
 <a href="https://github.com/skshashankkumar41/skshashankkumar41">
